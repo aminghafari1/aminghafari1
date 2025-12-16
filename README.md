@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**aminghafari1/aminghafari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Amin Ghaffari</h2>
 
-Here are some ideas to get you started:
+<p><b>Bioengineering PhD candidate @ UC Riverside</b></p>
+<p>Medical imaging · Neuroimaging · Machine learning</p>
+<p>Riverside, California, USA</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  🔗 <a href="https://www.linkedin.com/in/amghaffari">LinkedIn</a><br>
+  📘 <a href="https://www.researchgate.net/profile/Amin-Ghaffari-3?ev=hdr_xprf">ResearchGate</a><br>
+  🎓 <a href="https://scholar.google.com/citations?user=4g4MKQ4AAAAJ&hl=en&oi=ao">Google Scholar</a><br>
+  🐙 <a href="https://github.com/amghaffari">GitHub</a>
+</p>
